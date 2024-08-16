@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MutangiziRonald
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on web development
+- 👀 web and mobile developer
+
+- 💞️ I’m looking to collaborate on web development and android in flutter
 - 📫 mutangizir@gmail.com
 
 <!---
